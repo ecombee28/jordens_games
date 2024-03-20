@@ -1,0 +1,17 @@
+.main-selection-button{
+    background-color: #235ec2;
+    border: 2px solid black;
+    color: white;
+    padding: 9px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 10px;
+    transition-duration: 0.2s;
+
+}
+.main-selection-button:hover{
+    background-color: #528ef5;
+    cursor: pointer;
+}

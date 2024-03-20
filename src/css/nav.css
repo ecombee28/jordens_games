@@ -1,0 +1,22 @@
+.nav {
+  width: 100vw;
+  height: auto;
+  padding: 5px;
+  background-color: black;
+}
+
+.selection-box {
+  width: 80px;
+  margin-left: 40px;
+  padding: 10px;
+}
+.selection-box li {
+  color: #ffffff;
+  font-size: 25px;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.selection-box li:hover {
+  cursor: pointer;
+}
